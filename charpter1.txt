@@ -1,0 +1,5 @@
+it was the first charpter
+
+git init // creat git dir its hidden ls -a make it show
+
+git status// un tracked file will be in red( not in staging area)
